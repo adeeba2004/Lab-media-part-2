@@ -1,0 +1,518 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR MOVIE LIST
+#           TITLE                             YEAR  RATING  GENRE                 TYPE
+1    To Kill a Mockingbird                        1962      5         Drama                         M
+To Kill a Mockingbird                        1962      5         Drama                         Stars: Gregory Peck, Mary Badham
+2    Ferris Bueller's Day Off                     1986      7         Comedy                        M
+Ferris Bueller's Day Off                     1986      7         Comedy                        Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+3    Rocky                                        1976      7         Drama/Action                  M
+Rocky                                        1976      7         Drama/Action                  Stars: Sylvester Stallone, Carl Weathers
+4    Jaws                                         1975      5         Drama/Action                  M
+Jaws                                         1975      5         Drama/Action                  Stars: Roy Scheider, Richard Dreyfuss
+5    Daughters of the Dust                        1991      8         Drama                         M
+Daughters of the Dust                        1991      8         Drama                         Stars: Alva Rogers, Cora Lee Day
+6    Raiders of the Lost Ark                      1981      6         Action Adventure              M
+Raiders of the Lost Ark                      1981      6         Action Adventure              Stars: Harrison Ford, Karen Allen
+7    Star Wars IV                                 1977      6         Action Adventure              M
+Star Wars IV                                 1977      6         Action Adventure              Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+8    Mr. Holland's Opus                           1995      8         Drama/Musical                 M
+Mr. Holland's Opus                           1995      8         Drama/Musical                 Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+9    Blade Runner 2049                            2017      9         Sci-Fi                        M
+Blade Runner 2049                            2017      9         Sci-Fi                        Stars: Ryan Gosling, Harrison Ford
+10   Jurassic Park                                1993      8         Sci-Fi                        M
+Jurassic Park                                1993      8         Sci-Fi                        Stars: Sam Neill, Jeff Goldblum
+11   Dune                                         2021      7         Sci-Fi                        M
+Dune                                         2021      7         Sci-Fi                        Stars: Timothee Chalamet, Zendaya
+12   Fight Club                                   1999      10        Drama                         M
+Fight Club                                   1999      10        Drama                         Stars: Brad Pitt, Edward Norton
+13   Percy Jackson and the Lightning Thief        2010      2         Fantasy                       M
+Percy Jackson and the Lightning Thief        2010      2         Fantasy                       Stars: Logan Lerman, Alexandra Daddario
+14   The Grand Budapest Hotel                     2014      9         Adventure                     M
+The Grand Budapest Hotel                     2014      9         Adventure                     Stars: Ralph Fiennes, Saoirse Ronan
+15   Superman                                     1978      8         Sci-Fi                        M
+Superman                                     1978      8         Sci-Fi                        Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+16   Spirited Away                                2002      8         Fantasy                       M
+Spirited Away                                2002      8         Fantasy                       Stars: Rumi Hiiragi, Miyu Irino
+17   Gone Girl                                    2014      10        Thriller/Mystery              M
+Gone Girl                                    2014      10        Thriller/Mystery              Stars: Ben Affleck, Rosamund Pike
+18   Moonlight                                    2016      10        Drama                         M
+Moonlight                                    2016      10        Drama                         Stars: Mahershala Ali, Naomi Harris
+19   The Wolf of Wallstreet                       2013      10        Comedy/Crime                  M
+The Wolf of Wallstreet                       2013      10        Comedy/Crime                  Stars: Leonardo DiCaprio, Jonah Hill
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR BOOK LIST
+#           TITLE                             YEAR  RATING
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR SONG LIST
+1 All Too Well 2012 10
+All Too Well                                 2012      10        Pop                           
+2 Ball if I want to 2021 10
+Ball if I want to                            2021      10        Rap                           
+3 Call out my name 2021 8
+Call out my name                             2021      8         R&B                           
+4 Compass 2018 8
+Compass                                      2018      8         Indie                         
+5 Easy on me 2021 6
+Easy on me                                   2021      6         pop                           
+6 Figures 2018 8
+Figures                                      2018      8         R&B                           
+7 First Love / Late Spring 2014 10
+First Love / Late Spring                     2014      10        Indie                         
+8 Frozen 2017 5
+Frozen                                       2017      5         R&B                           
+9 Garden Grove 1998 10
+Garden Grove                                 1998      10        Reggae                        
+10 Har dil ki ava 2014 10
+Har dil ki ava                               2014      10        Slow music                    
+11 Holy Ghost 2015 8
+Holy Ghost                                   2015      8         Choir                         
+12 kal ho na ho 2009 9
+kal ho na ho                                 2009      9         Punajbi                       
+13 Monks 2012 10
+Monks                                        2012      10        Pop                           
+14 More Than a Woman 1977 9
+More Than a Woman                            1977      9         Pop                           
+15 nasha ha 2010 8
+nasha ha                                     2010      8         normal one                    
+16 Out Tha Mud 2015 10
+Out Tha Mud                                  2015      10        Rap                           
+17 Phali dafa 2017 9
+Phali dafa                                   2017      9         urdu                          
+18 Sea Dragon 2018 9
+Sea Dragon                                   2018      9         Math Rock                     
+19 Slacker 2002 10
+Slacker                                      2002      10        Rap                           
+20 Something 2015 10
+Something                                    2015      10        R&B - Jazz                    
+21 Stayin' Alive 1979 10
+Stayin' Alive                                1979      10        Pop                           
+22 Sweet Caroline 1969 10
+Sweet Caroline                               1969      10        Rock                          
+23 Sweet Life 2012 8
+Sweet Life                                   2012      8         Pop                           
+24 Thank u - next 2019 8
+Thank u - next                               2019      8         Pop                           
+25 The Mountain Top 2021 10
+The Mountain Top                             2021      10        Video Game Soundtrack         
+26 Tik Tok 2009 9
+Tik Tok                                      2009      9         Pop                           
+27 Tranquility Base Hotel & Casino 2018 10
+Tranquility Base Hotel & Casino              2018      10        Rock                          
+28 Wake Up 2015 9
+Wake Up                                      2015      9         Alternative                   
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR MEDIA LIST
+#           TITLE                             YEAR  RATING  GENRE                 TYPE
+1    To Kill a Mockingbird                        1962      5         Drama                         M
+To Kill a Mockingbird                        1962      5         Drama                         Stars: Gregory Peck, Mary Badham
+2    Ferris Bueller's Day Off                     1986      7         Comedy                        M
+Ferris Bueller's Day Off                     1986      7         Comedy                        Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+3    Rocky                                        1976      7         Drama/Action                  M
+Rocky                                        1976      7         Drama/Action                  Stars: Sylvester Stallone, Carl Weathers
+4    Jaws                                         1975      5         Drama/Action                  M
+Jaws                                         1975      5         Drama/Action                  Stars: Roy Scheider, Richard Dreyfuss
+5    Daughters of the Dust                        1991      8         Drama                         M
+Daughters of the Dust                        1991      8         Drama                         Stars: Alva Rogers, Cora Lee Day
+6    Raiders of the Lost Ark                      1981      6         Action Adventure              M
+Raiders of the Lost Ark                      1981      6         Action Adventure              Stars: Harrison Ford, Karen Allen
+7    Star Wars IV                                 1977      6         Action Adventure              M
+Star Wars IV                                 1977      6         Action Adventure              Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+8    Mr. Holland's Opus                           1995      8         Drama/Musical                 M
+Mr. Holland's Opus                           1995      8         Drama/Musical                 Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+9    Blade Runner 2049                            2017      9         Sci-Fi                        M
+Blade Runner 2049                            2017      9         Sci-Fi                        Stars: Ryan Gosling, Harrison Ford
+10   Jurassic Park                                1993      8         Sci-Fi                        M
+Jurassic Park                                1993      8         Sci-Fi                        Stars: Sam Neill, Jeff Goldblum
+11   Dune                                         2021      7         Sci-Fi                        M
+Dune                                         2021      7         Sci-Fi                        Stars: Timothee Chalamet, Zendaya
+12   Fight Club                                   1999      10        Drama                         M
+Fight Club                                   1999      10        Drama                         Stars: Brad Pitt, Edward Norton
+13   Percy Jackson and the Lightning Thief        2010      2         Fantasy                       M
+Percy Jackson and the Lightning Thief        2010      2         Fantasy                       Stars: Logan Lerman, Alexandra Daddario
+14   The Grand Budapest Hotel                     2014      9         Adventure                     M
+The Grand Budapest Hotel                     2014      9         Adventure                     Stars: Ralph Fiennes, Saoirse Ronan
+15   Superman                                     1978      8         Sci-Fi                        M
+Superman                                     1978      8         Sci-Fi                        Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+16   Spirited Away                                2002      8         Fantasy                       M
+Spirited Away                                2002      8         Fantasy                       Stars: Rumi Hiiragi, Miyu Irino
+17   Gone Girl                                    2014      10        Thriller/Mystery              M
+Gone Girl                                    2014      10        Thriller/Mystery              Stars: Ben Affleck, Rosamund Pike
+18   Moonlight                                    2016      10        Drama                         M
+Moonlight                                    2016      10        Drama                         Stars: Mahershala Ali, Naomi Harris
+19   The Wolf of Wallstreet                       2013      10        Comedy/Crime                  M
+The Wolf of Wallstreet                       2013      10        Comedy/Crime                  Stars: Leonardo DiCaprio, Jonah Hill
+20   All Too Well                                 2012      10        Pop                           S
+All Too Well                                 2012      10        Pop                           
+21   Ball if I want to                            2021      10        Rap                           S
+Ball if I want to                            2021      10        Rap                           
+22   Call out my name                             2021      8         R&B                           S
+Call out my name                             2021      8         R&B                           
+23   Compass                                      2018      8         Indie                         S
+Compass                                      2018      8         Indie                         
+24   Easy on me                                   2021      6         pop                           S
+Easy on me                                   2021      6         pop                           
+25   Figures                                      2018      8         R&B                           S
+Figures                                      2018      8         R&B                           
+26   First Love / Late Spring                     2014      10        Indie                         S
+First Love / Late Spring                     2014      10        Indie                         
+27   Frozen                                       2017      5         R&B                           S
+Frozen                                       2017      5         R&B                           
+28   Garden Grove                                 1998      10        Reggae                        S
+Garden Grove                                 1998      10        Reggae                        
+29   Har dil ki ava                               2014      10        Slow music                    S
+Har dil ki ava                               2014      10        Slow music                    
+30   Holy Ghost                                   2015      8         Choir                         S
+Holy Ghost                                   2015      8         Choir                         
+31   kal ho na ho                                 2009      9         Punajbi                       S
+kal ho na ho                                 2009      9         Punajbi                       
+32   Monks                                        2012      10        Pop                           S
+Monks                                        2012      10        Pop                           
+33   More Than a Woman                            1977      9         Pop                           S
+More Than a Woman                            1977      9         Pop                           
+34   nasha ha                                     2010      8         normal one                    S
+nasha ha                                     2010      8         normal one                    
+35   Out Tha Mud                                  2015      10        Rap                           S
+Out Tha Mud                                  2015      10        Rap                           
+36   Phali dafa                                   2017      9         urdu                          S
+Phali dafa                                   2017      9         urdu                          
+37   Sea Dragon                                   2018      9         Math Rock                     S
+Sea Dragon                                   2018      9         Math Rock                     
+38   Slacker                                      2002      10        Rap                           S
+Slacker                                      2002      10        Rap                           
+39   Something                                    2015      10        R&B - Jazz                    S
+Something                                    2015      10        R&B - Jazz                    
+40   Stayin' Alive                                1979      10        Pop                           S
+Stayin' Alive                                1979      10        Pop                           
+41   Sweet Caroline                               1969      10        Rock                          S
+Sweet Caroline                               1969      10        Rock                          
+42   Sweet Life                                   2012      8         Pop                           S
+Sweet Life                                   2012      8         Pop                           
+43   Thank u - next                               2019      8         Pop                           S
+Thank u - next                               2019      8         Pop                           
+44   The Mountain Top                             2021      10        Video Game Soundtrack         S
+The Mountain Top                             2021      10        Video Game Soundtrack         
+45   Tik Tok                                      2009      9         Pop                           S
+Tik Tok                                      2009      9         Pop                           
+46   Tranquility Base Hotel & Casino              2018      10        Rock                          S
+Tranquility Base Hotel & Casino              2018      10        Rock                          
+47   Wake Up                                      2015      9         Alternative                   S
+Wake Up                                      2015      9         Alternative                   
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR MEDIA LIBRARY
+#   TYPE
+19   Movies
+0   Books
+28   Songs
+47   Items
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+           MOVIES WITH RATING 9
+1 Blade Runner 2049 2017 9 Sci-Fi
+2 The Grand Budapest Hotel 2014 9 Adventure
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR BOOK LIST
+#           TITLE                             YEAR  RATING
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+           SONGS IN GENRE 3
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+           SONGS IN GENRE 9
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR MEDIA LIST
+#           TITLE                             YEAR  RATING  GENRE                 TYPE
+1    To Kill a Mockingbird                        1962      5         Drama                         M
+To Kill a Mockingbird                        1962      5         Drama                         Stars: Gregory Peck, Mary Badham
+2    Ferris Bueller's Day Off                     1986      7         Comedy                        M
+Ferris Bueller's Day Off                     1986      7         Comedy                        Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+3    Rocky                                        1976      7         Drama/Action                  M
+Rocky                                        1976      7         Drama/Action                  Stars: Sylvester Stallone, Carl Weathers
+4    Jaws                                         1975      5         Drama/Action                  M
+Jaws                                         1975      5         Drama/Action                  Stars: Roy Scheider, Richard Dreyfuss
+5    Daughters of the Dust                        1991      8         Drama                         M
+Daughters of the Dust                        1991      8         Drama                         Stars: Alva Rogers, Cora Lee Day
+6    Raiders of the Lost Ark                      1981      6         Action Adventure              M
+Raiders of the Lost Ark                      1981      6         Action Adventure              Stars: Harrison Ford, Karen Allen
+7    Star Wars IV                                 1977      6         Action Adventure              M
+Star Wars IV                                 1977      6         Action Adventure              Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+8    Mr. Holland's Opus                           1995      8         Drama/Musical                 M
+Mr. Holland's Opus                           1995      8         Drama/Musical                 Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+9    Blade Runner 2049                            2017      9         Sci-Fi                        M
+Blade Runner 2049                            2017      9         Sci-Fi                        Stars: Ryan Gosling, Harrison Ford
+10   Jurassic Park                                1993      8         Sci-Fi                        M
+Jurassic Park                                1993      8         Sci-Fi                        Stars: Sam Neill, Jeff Goldblum
+11   Dune                                         2021      7         Sci-Fi                        M
+Dune                                         2021      7         Sci-Fi                        Stars: Timothee Chalamet, Zendaya
+12   Fight Club                                   1999      10        Drama                         M
+Fight Club                                   1999      10        Drama                         Stars: Brad Pitt, Edward Norton
+13   Percy Jackson and the Lightning Thief        2010      2         Fantasy                       M
+Percy Jackson and the Lightning Thief        2010      2         Fantasy                       Stars: Logan Lerman, Alexandra Daddario
+14   The Grand Budapest Hotel                     2014      9         Adventure                     M
+The Grand Budapest Hotel                     2014      9         Adventure                     Stars: Ralph Fiennes, Saoirse Ronan
+15   Superman                                     1978      8         Sci-Fi                        M
+Superman                                     1978      8         Sci-Fi                        Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+16   Spirited Away                                2002      8         Fantasy                       M
+Spirited Away                                2002      8         Fantasy                       Stars: Rumi Hiiragi, Miyu Irino
+17   Gone Girl                                    2014      10        Thriller/Mystery              M
+Gone Girl                                    2014      10        Thriller/Mystery              Stars: Ben Affleck, Rosamund Pike
+18   Moonlight                                    2016      10        Drama                         M
+Moonlight                                    2016      10        Drama                         Stars: Mahershala Ali, Naomi Harris
+19   The Wolf of Wallstreet                       2013      10        Comedy/Crime                  M
+The Wolf of Wallstreet                       2013      10        Comedy/Crime                  Stars: Leonardo DiCaprio, Jonah Hill
+20   All Too Well                                 2012      10        Pop                           S
+All Too Well                                 2012      10        Pop                           
+21   Ball if I want to                            2021      10        Rap                           S
+Ball if I want to                            2021      10        Rap                           
+22   Call out my name                             2021      8         R&B                           S
+Call out my name                             2021      8         R&B                           
+23   Compass                                      2018      8         Indie                         S
+Compass                                      2018      8         Indie                         
+24   Easy on me                                   2021      6         pop                           S
+Easy on me                                   2021      6         pop                           
+25   Figures                                      2018      8         R&B                           S
+Figures                                      2018      8         R&B                           
+26   First Love / Late Spring                     2014      10        Indie                         S
+First Love / Late Spring                     2014      10        Indie                         
+27   Frozen                                       2017      5         R&B                           S
+Frozen                                       2017      5         R&B                           
+28   Garden Grove                                 1998      10        Reggae                        S
+Garden Grove                                 1998      10        Reggae                        
+29   Har dil ki ava                               2014      10        Slow music                    S
+Har dil ki ava                               2014      10        Slow music                    
+30   Holy Ghost                                   2015      8         Choir                         S
+Holy Ghost                                   2015      8         Choir                         
+31   kal ho na ho                                 2009      9         Punajbi                       S
+kal ho na ho                                 2009      9         Punajbi                       
+32   Monks                                        2012      10        Pop                           S
+Monks                                        2012      10        Pop                           
+33   More Than a Woman                            1977      9         Pop                           S
+More Than a Woman                            1977      9         Pop                           
+34   nasha ha                                     2010      8         normal one                    S
+nasha ha                                     2010      8         normal one                    
+35   Out Tha Mud                                  2015      10        Rap                           S
+Out Tha Mud                                  2015      10        Rap                           
+36   Phali dafa                                   2017      9         urdu                          S
+Phali dafa                                   2017      9         urdu                          
+37   Sea Dragon                                   2018      9         Math Rock                     S
+Sea Dragon                                   2018      9         Math Rock                     
+38   Slacker                                      2002      10        Rap                           S
+Slacker                                      2002      10        Rap                           
+39   Something                                    2015      10        R&B - Jazz                    S
+Something                                    2015      10        R&B - Jazz                    
+40   Stayin' Alive                                1979      10        Pop                           S
+Stayin' Alive                                1979      10        Pop                           
+41   Sweet Caroline                               1969      10        Rock                          S
+Sweet Caroline                               1969      10        Rock                          
+42   Sweet Life                                   2012      8         Pop                           S
+Sweet Life                                   2012      8         Pop                           
+43   Thank u - next                               2019      8         Pop                           S
+Thank u - next                               2019      8         Pop                           
+44   The Mountain Top                             2021      10        Video Game Soundtrack         S
+The Mountain Top                             2021      10        Video Game Soundtrack         
+45   Tik Tok                                      2009      9         Pop                           S
+Tik Tok                                      2009      9         Pop                           
+46   Tranquility Base Hotel & Casino              2018      10        Rock                          S
+Tranquility Base Hotel & Casino              2018      10        Rock                          
+47   Wake Up                                      2015      9         Alternative                   S
+Wake Up                                      2015      9         Alternative                   
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR BOOK LIST
+#           TITLE                             YEAR  RATING
+1    Fairy Tale                                   2023      5         
+Fairy Tale                                   2023      5         Weeks NYT: 5
+2    Lessons in Chemistry                         2022      7         
+Lessons in Chemistry                         2022      7         Weeks NYT: 5
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Media containing keyword: Beatles
+#    TITLE                             YEAR  RATING  GENRE                 TYPE
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Media containing keyword: Harrison Ford
+#    TITLE                             YEAR  RATING  GENRE                 TYPE
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Media containing keyword: Stephen King
+#    TITLE                             YEAR  RATING  GENRE                 TYPE
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+           SONGS IN GENRE R&B
+1 Call out my name 2021 8
+2 Figures 2018 8
+3 Frozen 2017 5
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+           SONGS IN GENRE Rock
+1 Sweet Caroline 1969 10
+2 Tranquility Base Hotel & Casino 2018 10
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR MOVIE LIST
+#           TITLE                             YEAR  RATING  GENRE                 TYPE
+1    To Kill a Mockingbird                        1962      5         Drama                         M
+To Kill a Mockingbird                        1962      5         Drama                         Stars: Gregory Peck, Mary Badham
+2    Ferris Bueller's Day Off                     1986      7         Comedy                        M
+Ferris Bueller's Day Off                     1986      7         Comedy                        Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+3    Rocky                                        1976      7         Drama/Action                  M
+Rocky                                        1976      7         Drama/Action                  Stars: Sylvester Stallone, Carl Weathers
+4    Jaws                                         1975      5         Drama/Action                  M
+Jaws                                         1975      5         Drama/Action                  Stars: Roy Scheider, Richard Dreyfuss
+5    Daughters of the Dust                        1991      8         Drama                         M
+Daughters of the Dust                        1991      8         Drama                         Stars: Alva Rogers, Cora Lee Day
+6    Raiders of the Lost Ark                      1981      6         Action Adventure              M
+Raiders of the Lost Ark                      1981      6         Action Adventure              Stars: Harrison Ford, Karen Allen
+7    Star Wars IV                                 1977      6         Action Adventure              M
+Star Wars IV                                 1977      6         Action Adventure              Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+8    Mr. Holland's Opus                           1995      8         Drama/Musical                 M
+Mr. Holland's Opus                           1995      8         Drama/Musical                 Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+9    Blade Runner 2049                            2017      9         Sci-Fi                        M
+Blade Runner 2049                            2017      9         Sci-Fi                        Stars: Ryan Gosling, Harrison Ford
+10   Jurassic Park                                1993      8         Sci-Fi                        M
+Jurassic Park                                1993      8         Sci-Fi                        Stars: Sam Neill, Jeff Goldblum
+11   Dune                                         2021      7         Sci-Fi                        M
+Dune                                         2021      7         Sci-Fi                        Stars: Timothee Chalamet, Zendaya
+12   Fight Club                                   1999      10        Drama                         M
+Fight Club                                   1999      10        Drama                         Stars: Brad Pitt, Edward Norton
+13   Percy Jackson and the Lightning Thief        2010      2         Fantasy                       M
+Percy Jackson and the Lightning Thief        2010      2         Fantasy                       Stars: Logan Lerman, Alexandra Daddario
+14   The Grand Budapest Hotel                     2014      9         Adventure                     M
+The Grand Budapest Hotel                     2014      9         Adventure                     Stars: Ralph Fiennes, Saoirse Ronan
+15   Superman                                     1978      8         Sci-Fi                        M
+Superman                                     1978      8         Sci-Fi                        Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+16   Spirited Away                                2002      8         Fantasy                       M
+Spirited Away                                2002      8         Fantasy                       Stars: Rumi Hiiragi, Miyu Irino
+17   Gone Girl                                    2014      10        Thriller/Mystery              M
+Gone Girl                                    2014      10        Thriller/Mystery              Stars: Ben Affleck, Rosamund Pike
+18   Moonlight                                    2016      10        Drama                         M
+Moonlight                                    2016      10        Drama                         Stars: Mahershala Ali, Naomi Harris
+19   The Wolf of Wallstreet                       2013      10        Comedy/Crime                  M
+The Wolf of Wallstreet                       2013      10        Comedy/Crime                  Stars: Leonardo DiCaprio, Jonah Hill
+20   Hidden Figures                               2016      9         Drama                         M
+Hidden Figures                               2016      9         Drama                         Stars: Jaraji P Henson, Octavia Spencer, Janelle Monae
+21   Psych 2: Lassie Come Home                    2020      9         Comedy                        M
+Psych 2: Lassie Come Home                    2020      9         Comedy                        Stars: James Roday, Dule Hill, Timothy Omundson
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR BOOK LIST
+#           TITLE                             YEAR  RATING
+1    Fairy Tale                                   2023      5         
+Fairy Tale                                   2023      5         Weeks NYT: 5
+2    Lessons in Chemistry                         2022      7         
+Lessons in Chemistry                         2022      7         Weeks NYT: 5
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+           SONGS IN GENRE Error
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR BOOK LIST
+#           TITLE                             YEAR  RATING
+1    Fairy Tale                                   2023      5         
+Fairy Tale                                   2023      5         Weeks NYT: 5
+2    Lessons in Chemistry                         2022      7         
+Lessons in Chemistry                         2022      7         Weeks NYT: 5
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR MEDIA LIST
+#           TITLE                             YEAR  RATING  GENRE                 TYPE
+1    To Kill a Mockingbird                        1962      5         Drama                         M
+To Kill a Mockingbird                        1962      5         Drama                         Stars: Gregory Peck, Mary Badham
+2    Ferris Bueller's Day Off                     1986      7         Comedy                        M
+Ferris Bueller's Day Off                     1986      7         Comedy                        Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+3    Rocky                                        1976      7         Drama/Action                  M
+Rocky                                        1976      7         Drama/Action                  Stars: Sylvester Stallone, Carl Weathers
+4    Jaws                                         1975      5         Drama/Action                  M
+Jaws                                         1975      5         Drama/Action                  Stars: Roy Scheider, Richard Dreyfuss
+5    Daughters of the Dust                        1991      8         Drama                         M
+Daughters of the Dust                        1991      8         Drama                         Stars: Alva Rogers, Cora Lee Day
+6    Raiders of the Lost Ark                      1981      6         Action Adventure              M
+Raiders of the Lost Ark                      1981      6         Action Adventure              Stars: Harrison Ford, Karen Allen
+7    Star Wars IV                                 1977      6         Action Adventure              M
+Star Wars IV                                 1977      6         Action Adventure              Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+8    Mr. Holland's Opus                           1995      8         Drama/Musical                 M
+Mr. Holland's Opus                           1995      8         Drama/Musical                 Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+9    Blade Runner 2049                            2017      9         Sci-Fi                        M
+Blade Runner 2049                            2017      9         Sci-Fi                        Stars: Ryan Gosling, Harrison Ford
+10   Jurassic Park                                1993      8         Sci-Fi                        M
+Jurassic Park                                1993      8         Sci-Fi                        Stars: Sam Neill, Jeff Goldblum
+11   Dune                                         2021      7         Sci-Fi                        M
+Dune                                         2021      7         Sci-Fi                        Stars: Timothee Chalamet, Zendaya
+12   Fight Club                                   1999      10        Drama                         M
+Fight Club                                   1999      10        Drama                         Stars: Brad Pitt, Edward Norton
+13   Percy Jackson and the Lightning Thief        2010      2         Fantasy                       M
+Percy Jackson and the Lightning Thief        2010      2         Fantasy                       Stars: Logan Lerman, Alexandra Daddario
+14   The Grand Budapest Hotel                     2014      9         Adventure                     M
+The Grand Budapest Hotel                     2014      9         Adventure                     Stars: Ralph Fiennes, Saoirse Ronan
+15   Superman                                     1978      8         Sci-Fi                        M
+Superman                                     1978      8         Sci-Fi                        Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+16   Spirited Away                                2002      8         Fantasy                       M
+Spirited Away                                2002      8         Fantasy                       Stars: Rumi Hiiragi, Miyu Irino
+17   Gone Girl                                    2014      10        Thriller/Mystery              M
+Gone Girl                                    2014      10        Thriller/Mystery              Stars: Ben Affleck, Rosamund Pike
+18   Moonlight                                    2016      10        Drama                         M
+Moonlight                                    2016      10        Drama                         Stars: Mahershala Ali, Naomi Harris
+19   The Wolf of Wallstreet                       2013      10        Comedy/Crime                  M
+The Wolf of Wallstreet                       2013      10        Comedy/Crime                  Stars: Leonardo DiCaprio, Jonah Hill
+20   All Too Well                                 2012      10        Pop                           S
+All Too Well                                 2012      10        Pop                           
+21   Ball if I want to                            2021      10        Rap                           S
+Ball if I want to                            2021      10        Rap                           
+22   Call out my name                             2021      8         R&B                           S
+Call out my name                             2021      8         R&B                           
+23   Compass                                      2018      8         Indie                         S
+Compass                                      2018      8         Indie                         
+24   Easy on me                                   2021      6         pop                           S
+Easy on me                                   2021      6         pop                           
+25   Figures                                      2018      8         R&B                           S
+Figures                                      2018      8         R&B                           
+26   First Love / Late Spring                     2014      10        Indie                         S
+First Love / Late Spring                     2014      10        Indie                         
+27   Frozen                                       2017      5         R&B                           S
+Frozen                                       2017      5         R&B                           
+28   Garden Grove                                 1998      10        Reggae                        S
+Garden Grove                                 1998      10        Reggae                        
+29   Har dil ki ava                               2014      10        Slow music                    S
+Har dil ki ava                               2014      10        Slow music                    
+30   Holy Ghost                                   2015      8         Choir                         S
+Holy Ghost                                   2015      8         Choir                         
+31   kal ho na ho                                 2009      9         Punajbi                       S
+kal ho na ho                                 2009      9         Punajbi                       
+32   Monks                                        2012      10        Pop                           S
+Monks                                        2012      10        Pop                           
+33   More Than a Woman                            1977      9         Pop                           S
+More Than a Woman                            1977      9         Pop                           
+34   nasha ha                                     2010      8         normal one                    S
+nasha ha                                     2010      8         normal one                    
+35   Out Tha Mud                                  2015      10        Rap                           S
+Out Tha Mud                                  2015      10        Rap                           
+36   Phali dafa                                   2017      9         urdu                          S
+Phali dafa                                   2017      9         urdu                          
+37   Sea Dragon                                   2018      9         Math Rock                     S
+Sea Dragon                                   2018      9         Math Rock                     
+38   Slacker                                      2002      10        Rap                           S
+Slacker                                      2002      10        Rap                           
+39   Something                                    2015      10        R&B - Jazz                    S
+Something                                    2015      10        R&B - Jazz                    
+40   Stayin' Alive                                1979      10        Pop                           S
+Stayin' Alive                                1979      10        Pop                           
+41   Sweet Caroline                               1969      10        Rock                          S
+Sweet Caroline                               1969      10        Rock                          
+42   Sweet Life                                   2012      8         Pop                           S
+Sweet Life                                   2012      8         Pop                           
+43   Thank u - next                               2019      8         Pop                           S
+Thank u - next                               2019      8         Pop                           
+44   The Mountain Top                             2021      10        Video Game Soundtrack         S
+The Mountain Top                             2021      10        Video Game Soundtrack         
+45   Tik Tok                                      2009      9         Pop                           S
+Tik Tok                                      2009      9         Pop                           
+46   Tranquility Base Hotel & Casino              2018      10        Rock                          S
+Tranquility Base Hotel & Casino              2018      10        Rock                          
+47   Wake Up                                      2015      9         Alternative                   S
+Wake Up                                      2015      9         Alternative                   
+48   Hidden Figures                               2016      9         Drama                         M
+Hidden Figures                               2016      9         Drama                         Stars: Jaraji P Henson, Octavia Spencer, Janelle Monae
+49   Psych 2: Lassie Come Home                    2020      9         Comedy                        M
+Psych 2: Lassie Come Home                    2020      9         Comedy                        Stars: James Roday, Dule Hill, Timothy Omundson
+50   Africa                                       1982      7         rock                          S
+Africa                                       1982      7         rock                          (Top 40 Hit)
+51   Strawberry Fields Forever                    1967      9         pop                           S
+Strawberry Fields Forever                    1967      9         pop                           (Top 40 Hit)
+52   Bohemian Rhapsody                            1975      8         rock                          S
+Bohemian Rhapsody                            1975      8         rock                          (Top 40 Hit)
+53   Fairy Tale                                   2023      5         Suspense                      B
+Fairy Tale                                   2023      5         Weeks NYT: 5
+54   Lessons in Chemistry                         2022      7         Humor                         B
+Lessons in Chemistry                         2022      7         Weeks NYT: 5
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+              YOUR MEDIA LIBRARY
+#   TYPE
+21   Movies
+2   Books
+31   Songs
+54   Items
