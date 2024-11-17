@@ -1,0 +1,33 @@
+ERROR: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+Previous record has an invalid stoi argument error
+ERROR: B,Hamlet,William Shakespeare,4,Tragedy,214,1600,5
+There was an invalid value entered for year.
+ERROR: B,Fahrenheit 451,Ray Bradbury,Sci-Fi,256,1953,8
+Previous record has an invalid stoi argument error
+ERROR: M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis
+The rating provided: 15 is invalid
+ERROR: B,Crime and Punishment,Fyodor Dostoevsky,7,Crime Fiction,576,1866,15
+There was an invalid value entered for year.
+ERROR: B,Watchmen,Alan Moore,8,Sci-Fi,416,1987,ERROR
+Unable to process command. There was an invalid value entered for weeks: Watchmen
+ERROR: S,Baba Yetu,Christopher Tin,10,Choir,203,2025,0
+There was an invalid value entered for year.
+ERROR: S,Blinding Lights,the Weeknd,10,9,INVALID,2020,1
+Previous record has an invalid stoi argument error
+ERROR: Q
+Previous record has an invalid stoi argument error
+ERROR: 
+Previous record has an invalid stoi argument error
+ERROR: Invalid numeric values in new media entry
+ERROR: Invalid numeric values in new media entry
+ERROR: Invalid numeric values in new media entry
+ERROR: Invalid weeks value for new book
+ERROR: Invalid numeric values in new media entry
+ERROR: Invalid numeric values in new media entry
+ERROR: No movies found with actor: Octavia Spencer
+ERROR: No movies found with actor: Harrison Ford
+ERROR: No movies found with actor: Victor Lee
+ERROR: No media found containing: Harrison Ford
+ERROR: No media found containing: Steven Spielberg
+ERROR: No media found containing: Bee Gees
+ERROR: No media found containing: Beatles
