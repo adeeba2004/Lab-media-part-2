@@ -1,5 +1,7 @@
 // CS201R-PGM7.cpp : Media Library Part 2 - Derived Classes Implementation
 // Adeeba Nizam
+//nizam
+
 
 #include "Functions.h"
 #include "Media.h"
