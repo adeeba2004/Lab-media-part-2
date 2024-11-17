@@ -1,3 +1,6 @@
+//Adeeba Nizam
+//PROGRAM 7 PART 2 MEDIA
+
 #include "Functions.h"
 #include "Media.h"
 #include <iostream>
@@ -10,8 +13,7 @@ using namespace std;
 
 int main() {
     vector<Media*> mediaLib;
-    vector<Media*> myLib; // This should be declared at the start of the main function
-
+    vector<Media*> myLib; 
     ifstream inList("mediaList.txt");
     ifstream inCommands("mediaCommands.txt");
     ofstream outFile("mediaReport.txt");
